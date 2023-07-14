@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ab4c80b.css",
+    "main.js": "/static/js/main.da73c515.js",
+    "static/js/787.aeca62f9.chunk.js": "/static/js/787.aeca62f9.chunk.js",
+    "static/media/perfil.png": "/static/media/perfil.465bd65062f25b90dc6e.png",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/perfil1.png": "/static/media/perfil1.1936a0b492902e9cfb1e.png",
+    "static/media/bg.png": "/static/media/bg.cc1273af450504afe755.png",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.2699aefade440f0e338f.ttf",
+    "static/media/Roboto-Thin.ttf": "/static/media/Roboto-Thin.4ecf36d10d43e2996afe.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.35eab922fdbe4b5324d4.ttf",
+    "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.67102731a93fd827b382.ttf",
+    "static/media/FIRMAN_JUAN_MANUEL_CV.pdf": "/static/media/FIRMAN_JUAN_MANUEL_CV.bd63cde530030e04a50b.pdf",
+    "static/media/portfolio.png": "/static/media/portfolio.fe9de5cd568cfd089b3f.png",
+    "static/media/webnails.png": "/static/media/webnails.31165e3b41d950ba1aab.png",
+    "static/media/consultoriomern.png": "/static/media/consultoriomern.8b5d45e02933c1562add.png",
+    "static/media/cuestionario.png": "/static/media/cuestionario.104a378adc5563394671.png",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/spaceinvaders.png": "/static/media/spaceinvaders.69c2f12e483e1d78353f.png",
+    "static/media/bhaskara.png": "/static/media/bhaskara.4a2602293ac2da16b201.png",
+    "static/media/laraster.png": "/static/media/laraster.2169c92c6744fd91b207.png",
+    "static/media/grancerdo1.png": "/static/media/grancerdo1.db52dfb88d173633e018.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/linkedin.svg": "/static/media/linkedin.93683c2cc3d5ca884dcf6c3525104a48.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "main.2ab4c80b.css.map": "/static/css/main.2ab4c80b.css.map",
+    "main.da73c515.js.map": "/static/js/main.da73c515.js.map",
+    "787.aeca62f9.chunk.js.map": "/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ab4c80b.css",
+    "static/js/main.da73c515.js"
+  ]
+}
